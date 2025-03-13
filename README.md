@@ -19,6 +19,18 @@ To use this tool, simply run the provided Python script. Ensure you have Python 
 
 Recently in a Mobile Office training I read about the **20-20-20 rule** which can be used to prevent digital eye strain. It's difficult to remind yourself to look away because sometimes you might not even notice how much time passed. For me it's easier to have a tool remind and force me to take a brake from starring at my screen.
 
+# Stehauf - a stand up reminder tool
+
+Works quite similar to *Schauway* except it's not reminding you to look away but to stand up and use your stand-up work desk.
+
+## How It Works
+
+1. After 40 minutes sitting, a fullscreen message will tell you to "Stand Up".
+2. To hide the Window you have to click the "Got it" button.
+3. After 20 minutes standing, you will be told to "Sit Down" again.
+4. Hide the window by clicking the Button.
+5. The cycle repeats until manually stopped by the "Stop" button.
+
 ---
 
 *Note: This README.md is part of the Schauway project. Feel free to customize and use it as needed for your own projects.*
